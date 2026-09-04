@@ -89,6 +89,9 @@ Healthcare distributor portal with responsive dashboard.
 Property listings, lead management, site visits, contacts.
 
 **Tech:** Flutter, Riverpod, Drift
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=angular,flutter,dart,html,css,bootstrap,js,ts,git,github,vscode,androidstudio,postman,firebase" />
 
 ---
 
